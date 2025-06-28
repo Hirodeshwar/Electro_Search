@@ -115,9 +115,7 @@ npm install express cors
 
 ---
 
-## 📸 Preview
 
-![Preview Screenshot](https://cdn-icons-png.flaticon.com/512/1065/1065719.png)
 
 ---
 
