@@ -1,5 +1,4 @@
 # Electro_Search
-Sure! Here's a complete and clean `README.md` for your **ElectroSearch - Electrical Device Dictionary** project:
 
 ---
 
@@ -126,13 +125,6 @@ npm install express cors
 
 ---
 
-## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE).
 
-```
 
----
-
-Would you like me to generate a logo, badge section, or GitHub deploy instructions as well?
-```
